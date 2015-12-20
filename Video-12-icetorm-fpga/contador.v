@@ -1,7 +1,10 @@
-module contador (input wire clk,
-                 output wire [4:0] leds);
+module contador #(
+        parameter N = 26  //-- Numero de bits del contador
+  )(
+        input wire clk,
+        output wire [4:0] leds);
 
-reg [26:0] cont;
+reg [N-1:0] cont;
 reg rstn = 0;
 
 always @(posedge clk)
@@ -13,6 +16,6 @@ always @(posedge clk)
   else
     cont <= cont + 1;
 
-assign leds = cont[26:21];
+assign leds = cont[N-1: N-6];
 
 endmodule

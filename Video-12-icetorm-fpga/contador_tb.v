@@ -3,6 +3,8 @@
 
 module contador_tb;
 
+localparam N = 6;  //-- Numero de bits del contador
+
 reg clk = 0;
 
 wire [4:0] leds;
@@ -11,10 +13,12 @@ wire [4:0] leds;
 always
   # 0.5 clk <= ~clk;
 
-  contador CONT0 (
+  contador #(
+             .N(N)
+  )  CONT0 (
              .clk(clk),
              .leds(leds)
-    );
+  );
 
 initial begin
 

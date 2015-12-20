@@ -1,15 +1,15 @@
 [*]
 [*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
-[*] Sun Dec 20 17:16:27 2015
+[*] Sun Dec 20 18:56:41 2015
 [*]
 [dumpfile] "/home/obijuan/develop/videoblog/Video-12-icetorm-fpga/contador_tb.vcd"
-[dumpfile_mtime] "Sun Dec 20 17:15:41 2015"
-[dumpfile_size] 7135
+[dumpfile_mtime] "Sun Dec 20 18:56:16 2015"
+[dumpfile_size] 9957
 [savefile] "/home/obijuan/develop/videoblog/Video-12-icetorm-fpga/contador_tb.gtkw"
 [timestart] 0
 [size] 1000 600
-[pos] -414 -187
-*-7.616491 229 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[pos] -1 -1
+*-8.616491 10140 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [sst_width] 223
 [signals_width] 102
 [sst_expanded] 1
