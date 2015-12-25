@@ -1,7 +1,7 @@
 module contador #(
         parameter N = 26  //-- Numero de bits del contador
   )(
-        input wire clk,           //-- Relog del sistema
+        input wire clk,           //-- Reloj del sistema
         output wire [4:0] leds    //-- Leds de la icestick
 );
 
