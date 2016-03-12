@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "label": "",
+      "type": "input",
+      "params": [
+        "144"
+      ],
+      "id": 10,
+      "x": 134,
+      "y": 155,
+      "width": 64,
+      "outputConnectors": [
+        {
+          "label": "144"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "type": "output",
+      "params": [
+        "95"
+      ],
+      "id": 11,
+      "x": 451,
+      "y": 160,
+      "width": 56,
+      "inputConnectors": [
+        {
+          "label": "95"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "type": "output",
+      "params": [
+        "96"
+      ],
+      "id": 12,
+      "x": 444,
+      "y": 225,
+      "width": 56,
+      "inputConnectors": [
+        {
+          "label": "96"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "type": "output",
+      "params": [
+        "97"
+      ],
+      "id": 13,
+      "x": 446,
+      "y": 312,
+      "width": 56,
+      "inputConnectors": [
+        {
+          "label": "97"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "type": "output",
+      "params": [
+        "98"
+      ],
+      "id": 14,
+      "x": 446,
+      "y": 372,
+      "width": 56,
+      "inputConnectors": [
+        {
+          "label": "98"
+        }
+      ]
+    },
+    {
+      "label": "NOT",
+      "type": "notx",
+      "params": [],
+      "vcode": "module notx (input i, output o);\nassign o = ! i;\nendmodule\n",
+      "id": 15,
+      "x": 225,
+      "y": 314,
+      "width": 80,
+      "inputConnectors": [
+        {
+          "name": "i",
+          "label": ""
+        }
+      ],
+      "outputConnectors": [
+        {
+          "name": "o",
+          "label": ""
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "source": {
+        "nodeID": 10,
+        "connectorIndex": 0
+      },
+      "dest": {
+        "nodeID": 11,
+        "connectorIndex": 0
+      }
+    },
+    {
+      "source": {
+        "nodeID": 10,
+        "connectorIndex": 0
+      },
+      "dest": {
+        "nodeID": 12,
+        "connectorIndex": 0
+      }
+    },
+    {
+      "source": {
+        "nodeID": 10,
+        "connectorIndex": 0
+      },
+      "dest": {
+        "nodeID": 15,
+        "connectorIndex": 0
+      }
+    },
+    {
+      "source": {
+        "nodeID": 15,
+        "connectorIndex": 0
+      },
+      "dest": {
+        "nodeID": 13,
+        "connectorIndex": 0
+      }
+    },
+    {
+      "source": {
+        "nodeID": 15,
+        "connectorIndex": 0
+      },
+      "dest": {
+        "nodeID": 14,
+        "connectorIndex": 0
+      }
+    }
+  ]
+}
