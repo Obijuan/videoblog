@@ -172,9 +172,9 @@
       (net 3 "Net-(D1-PadA)"))
     (pad K smd rect (at -0.7493 0 180) (size 0.79756 0.79756) (layers F.Cu F.Paste F.Mask)
       (net 1 "Net-(D1-PadK)"))
-    (model ${KIPRJMOD}/packages3d/LED_0603.wrl
+    (model ${KIPRJMOD}/packages3d/myled.wrl
       (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
     )
   )
