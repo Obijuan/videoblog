@@ -13,11 +13,11 @@
    version="1.2"
    x="0in"
    y="0in"
-   width="3.8000848in"
-   height="3.1657403in"
-   viewBox="0 0 273.60563 227.93289"
+   width="13.359739in"
+   height="11.129611in"
+   viewBox="0 0 961.89954 801.33055"
    id="svg33"
-   sodipodi:docname="Alhambra-led_bb.svg"
+   sodipodi:docname="A2-led-01.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata39">
@@ -86,9 +86,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.7406409"
-     inkscape:cx="179.05073"
-     inkscape:cy="162.28044"
+     inkscape:zoom="0.43516023"
+     inkscape:cx="343.90287"
+     inkscape:cy="566.40804"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -97,14 +97,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(37.48613,11.414924)">
+     transform="translate(37.48613,11.414931)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.74999309;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:13.18363476;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect19253"
-       width="273.60562"
-       height="227.93289"
+       width="961.89954"
+       height="801.33057"
        x="-37.48613"
-       y="-11.414924"
+       y="-11.414931"
        inkscape:export-filename="/home/obijuan/develop/videoblog/Video-27-FPGA-La-placa-Alhambra-II/wiki/A2-led-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -114,10 +114,10 @@
      id="layer1"
      inkscape:label="Layer 1"
      style="display:inline"
-     transform="translate(37.48613,11.414924)">
+     transform="translate(37.48613,11.414931)">
     <g
        id="g10408"
-       transform="matrix(0.79999854,0,0,0.79999854,-5.669282,41.177956)"
+       transform="matrix(2.8125089,0,0,2.8125089,74.370533,173.48283)"
        inkscape:export-filename="/home/obijuan/develop/videoblog/Video-27-FPGA-La-placa-Alhambra-II/wiki/A2-led-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -18465,25 +18465,25 @@
       </g>
     </g>
     <path
-       d="M 78.737081,29.206799 V 53.8229"
+       d="m 371.11312,131.39652 v 86.54142"
        id="path2"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#8c8c8c;stroke-width:2.15136003;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#8c8c8c;stroke-width:7.56341314;stroke-linecap:round;stroke-linejoin:round"
        inkscape:export-filename="/home/obijuan/develop/videoblog/Video-27-FPGA-La-placa-Alhambra-II/wiki/A2-led-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       d="M 85.939281,29.206799 V 53.8229"
+       d="m 396.43349,131.39652 v 86.54142"
        id="path4"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#8c8c8c;stroke-width:2.15136003;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#8c8c8c;stroke-width:7.56341314;stroke-linecap:round;stroke-linejoin:round"
        inkscape:export-filename="/home/obijuan/develop/videoblog/Video-27-FPGA-La-placa-Alhambra-II/wiki/A2-led-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        partID="854120130"
        id="g31"
-       transform="translate(4.7228777,-1.4904759e-6)"
+       transform="matrix(3.5156423,0,0,3.5156423,110.90565,28.715854)"
        inkscape:export-filename="/home/obijuan/develop/videoblog/Video-27-FPGA-La-placa-Alhambra-II/wiki/A2-led-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -18575,11 +18575,11 @@
                style="opacity:0.25;fill:#00cc80" />
             <polygon
                id="polygon28"
-               points="6.0156,13.0946 10.0123,8.80488 3.40704,8.80488 2.2032,9.648 2.2032,16.1071 3.19608,16.1071 3.19608,13.0946 "
+               points="10.0123,8.80488 3.40704,8.80488 2.2032,9.648 2.2032,16.1071 3.19608,16.1071 3.19608,13.0946 6.0156,13.0946 "
                style="fill:#666666" />
             <polygon
                id="polygon30"
-               points="11.0599,16.1071 11.9736,16.1071 11.9736,8.52408 10.7784,8.52408 11.2147,9.03384 7.41168,13.0946 11.0599,13.0946 "
+               points="11.9736,16.1071 11.9736,8.52408 10.7784,8.52408 11.2147,9.03384 7.41168,13.0946 11.0599,13.0946 11.0599,16.1071 "
                style="fill:#666666" />
             <path
                id="color_path32"
