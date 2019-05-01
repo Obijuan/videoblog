@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "2"
+                "name": "LED0",
+                "value": "45"
               }
             ],
             "virtual": false
