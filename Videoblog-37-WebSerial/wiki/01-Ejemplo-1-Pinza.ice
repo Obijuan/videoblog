@@ -204,7 +204,7 @@
           "id": "231b75e3-0c6e-495e-af52-ded4e2cf6453",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 1: Accionando una piza\n\nApertura y cierre de una pinza robótica mediante  \nWebSerial",
+            "info": "# Ejemplo 1: Accionando una pinza\n\nApertura y cierre de una pinza robótica mediante  \nWebSerial",
             "readonly": true
           },
           "position": {
